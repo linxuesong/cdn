@@ -1,5 +1,5 @@
 // 注意：live2d_path 参数应使用绝对路径
-const live2d_path = "https://cdn.jsdelivr.net/gh/linxuesong/cdn@Num1/live2d_qianduan/live2d-widget-master/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/linxuesong/cdn/live2d_qianduan/live2d-widget-master/";
 //const live2d_path = "/live2d-widget/";
 
 // 封装异步加载资源的方法
@@ -33,8 +33,8 @@ if (screen.width >= 768) {
 	]).then(() => {
 		initWidget({
 			waifuPath: live2d_path + "waifu-tips.json",
-			apiPath: "https://cdn.jsdelivr.net/gh/linxuesong/cdn@Num1/live2d_houduan_api/live2d_api-master/",
-			cdnPath: "https://cdn.jsdelivr.net/gh/linxuesong/cdn@Num1/live2d_houduan_api/live2d_api-master/"
+			apiPath: "https://cdn.jsdelivr.net/gh/linxuesong/cdn/live2d_houduan_api/live2d_api-master/",
+			cdnPath: "https://cdn.jsdelivr.net/gh/linxuesong/cdn/live2d_houduan_api/live2d_api-master/"
 		});
 	});
 }
