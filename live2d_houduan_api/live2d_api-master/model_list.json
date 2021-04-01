@@ -1,4 +1,4 @@
-﻿{
+{
     "models": [
         "Potion-Maker/Pio",
         "Potion-Maker/Tia",
@@ -32,7 +32,8 @@
         ],
         "KantaiCollection/murakumo",
         "paul/Chino",
-        "paul/yayi"
+        "paul/yayi",
+	"paul/rem"
     ],
     "messages": [
         "来自 Potion Maker 的 Pio 酱 ~",
@@ -42,7 +43,8 @@
         "Shizuku Talk ！这里是 Shizuku ~",
         "Nep! Nep! 超次元游戏：海王星 系列",
         "艦隊これくしょん / 叢雲(むらくも)",
-        "来自梦想小站的Chino",
-        "来自梦想小站的崩坏芽衣"
+        "来自梦象小站的Chino",
+        "来自梦象小站的崩坏芽衣"
+	"来自梦象小站的雷姆酱"
     ]
 }
