@@ -820,7 +820,7 @@ body {
   border-collapse: collapse;
   border-spacing: 0;
   table-layout: fixed;
-  margin-top: 75px;
+  margin-top: 0px;
 }
 .boxed-container .page-container {
   max-width: 1140px;
@@ -971,9 +971,9 @@ body {
   color: #fff;
 }
 .sidebar-menu .main-menu {
-  padding-left: 40px;
+  padding-left: 0px;
   padding-right: 40px;
-  margin-top: 20px;
+  margin-top: 0px;
   margin-bottom: 20px;
   list-style: none;
 }
