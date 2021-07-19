@@ -1,11 +1,11 @@
 /* 这个文件是icon小图标的样式 */
 @font-face {
   font-family: "linecons";
-  src: url("../../../fonts/linecons/linecons.eot?24293614");
-  src: url("../../../fonts/linecons/linecons.eot?24293614#iefix") format("embedded-opentype"),
-    url("../../../fonts/linecons/linecons.woff?24293614") format("woff"),
-    url("../../../fonts/linecons/linecons.ttf?24293614") format("truetype"),
-    url("../../../fonts/linecons/linecons.svg?24293614#linecons") format("svg");
+  src: url("../../fonts/linecons/linecons.eot?24293614");
+  src: url("../../fonts/linecons/linecons.eot?24293614#iefix") format("embedded-opentype"),
+    url("../../fonts/linecons/linecons.woff?24293614") format("woff"),
+    url("../../fonts/linecons/linecons.ttf?24293614") format("truetype"),
+    url("../../fonts/linecons/linecons.svg?24293614#linecons") format("svg");
   font-weight: normal;
   font-style: normal;
 }
